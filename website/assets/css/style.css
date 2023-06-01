@@ -1,3 +1,15 @@
 body{
     background: #BDBDBD;
 }
+.navbar {
+    background-color: black;
+}
+
+.navbar-text,
+.navbar-brand,
+.nav-link {
+    color: grey !important;
+    padding-left: 0%;
+    margin-left: 0%;
+}
+
